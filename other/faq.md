@@ -16,7 +16,7 @@ Vana addresses these challenges through:
 
 ### Why does data ownership help me as a builder?&#x20;
 
-Data ownership unlocks better AI by allowing access to new training datasets. Proper attribution and incentives enable frontier AI models collectively owned and governed by contributors with datasets that would otherwise be I walled gardensn. Data portability levels the playing field by allowing builders to access cross-platform data.&#x20;
+Data ownership unlocks better AI by allowing access to new training datasets. Proper attribution and incentives enable frontier AI models collectively owned and governed by contributors with datasets that would otherwise be I walled gardens. Data portability levels the playing field by allowing builders to access cross-platform data.&#x20;
 
 ### Why haven't any data ownership projects succeeded yet?
 
